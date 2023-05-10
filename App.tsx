@@ -1,5 +1,7 @@
+import { CardsScreen } from "./components/cards-screen";
+
 function App() {
-  return <div></div>;
+  return <CardsScreen />;
 }
 
 export default App;
